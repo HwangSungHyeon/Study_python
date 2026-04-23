@@ -20,6 +20,8 @@ num3 = number[2:] # 2번 인덱스부터 끝까지 자르기
 print(num3)
 num4 = number[:] # 전체 자르기
 print(num4)
+num5 = number[::-1] # 역순으로 뒤집기
+print(num5)
 
 # 리스트 수정
 number[2] = 100
