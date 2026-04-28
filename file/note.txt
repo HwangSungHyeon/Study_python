@@ -1,0 +1,1 @@
+C:\Users\dw-026\AppData\Local\Programs\Python\Python310\python.exe "c:/hsh/python basic/Study_python/file/test.py"
